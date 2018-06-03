@@ -1,0 +1,12 @@
+Setting,Customize,Hints,Examples
+Storymap Info,,,
+Map Title,Heatmap Demo (from Sheets),,
+Map Subtitle,Subtitle for Heatmap,,
+Map Settings,,,
+Basemap Tiles,CartoDB.PositronNoLabels,Drop-down menu for background basemap tiles,https://leaflet-extras.github.io/leaflet-providers/preview/
+Zoom Controls,on,,
+Credits,,,
+"Author Name,Ivan Arakistain,""Appears in map credits as """"View data by..."""" (or leave blank)"","
+Author Email or Website,tactizity@gmail.com,Create link in Author Name by inserting your email or web address (or leave blank),
+"Author GitHub Repo Link,https://github.com/iarakistain,""Appears in map credits as """"View code..."""" link (leave as-is OR insert link to your own GitHub code repo)"","
+"Code Credit,""<a href=""""https://www.tactizity.com"""">DataVizForAll</a>"",,"

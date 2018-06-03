@@ -1,0 +1,18 @@
+http://demo.f4map.com/#lat=42.1310876&lon=-0.4185520&zoom=17 
+
+https://trends.google.es/trends/explore?q=huesca&geo=ES 
+
+http://datosabiertos.dphuesca.es/dataset
+
+https://public.tableau.com/profile/infoanefa#!/vizhome/22_17_0/HUESCA
+
+https://www.google.es/search?q=huesca+numero+bares&npsic=0&rflfq=1&rlha=0&rllag=42138564,-410124,479&tbm=lcl&ved=0ahUKEwjpxpmjgLPbAhVBNxQKHYyLCGEQtgMIKQ&tbs=lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:9&rldoc=1#rlfi=hd:;si:,42.132597763483645,-0.4122621582123429;mv:!1m3!1d9939.386426548224!2d-0.41387148362127846!3d42.13528221060068!3m2!1i1116!2i645!4f13.1
+
+https://www.google.es/search?tbm=lcl&ei=CIQRW-K5F4H6sAHVtZJg&q=huesca+numero+tiendas&oq=huesca+numero+tiendas&gs_l=psy-ab.3...164444.166491.0.167003.7.7.0.0.0.0.191.874.0j5.5.0....0...1c.1.64.psy-ab..2.4.705...33i21k1j33i160k1.0.Y6igXIUZDX8#rlfi=hd:;si:;mv:!1m3!1d9938.955241555672!2d-0.4125368989501794!3d42.13802957402472!3m2!1i1116!2i645!4f13.1
+
+https://elpais.com/economia/2018/02/17/actualidad/1518891716_557686.html
+
+
+
+
+SOLUCION: https://www.datavizforall.org/leaflet/storymaps/ 
